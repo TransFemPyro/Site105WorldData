@@ -1,0 +1,21 @@
+{
+	"StaffList": [
+		"FemPyro"
+	],
+	"GameSchedule": "Game Schedule Text",
+	"Socials": "Twitter: <color=#1DA1F2>@TransFemPyro</color>\nDiscord: <color=White>discord.site105.com</color>",
+	"WorldVersion": "1.2",
+	"VersionChangeNotice":"<color=red>World Notice</color> The world has been updated. Please reload instance immediately.",
+	"cheatDetectionMessage":"<color=red>Notice</color>\nIf you are seeing this message,\nthe world has encountered <color=yellow>Error 51505</color>. For assistance please visit:\ndiscord.gg/gibgames.",
+	"verboseDebug": "false",
+	"enableCheaterDetection": "false",
+	"localCheaterKey": "1234567890",
+	"windowScaleLogKey": "0987654321",
+	"enableOperators": "true",
+	"disableGMBring": "false",
+	"enableKeyGeneration": "false",
+	"ExileManifest": [
+		"lil_dingle",
+		"Vαɳԃαʅ"
+	]
+}
